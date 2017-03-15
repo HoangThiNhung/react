@@ -1,0 +1,13 @@
+---
+
+### Generic smell configuration
+
+# You can disable smells completely
+IrresponsibleModule:
+  enabled: false
+
+FeatureEnvy:
+  enabled: false
+
+UtilityFunction:
+  enabled: false
