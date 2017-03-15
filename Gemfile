@@ -13,6 +13,10 @@ gem "uglifier", ">= 1.3.0"
 gem "coffee-rails", "~> 4.2"
 gem "jquery-rails"
 gem "jbuilder", "~> 2.5"
+gem "react-rails"
+gem "react-rails-img"
+gem "js-routes"
+gem "font-awesome-rails"
 
 group :development, :test do
   gem "byebug", platform: :mri
